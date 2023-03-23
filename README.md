@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Ayush, I am a Backend Developer currently exploring DevOps and Web3 and I am trying my tech knowledge to automate or solve my day to day tasks.
+# Hi there! 👋 I'm Ayush
+I am a Backend Developer currently exploring DevOps and Web3 and I am trying my tech knowledge to automate or solve my day to day tasks.
 
 
 ## 🌐 Socials:
